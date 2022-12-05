@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">Back End Developer | Ceo at Unirase & Co-founder EloGods</h3>
+<h3 align="center">Back End Developer | CTO at Unirase & Co-founder EloGods</h3>
 
 <div align="center">
  🌱 I’m currently learning <strong>Selenium</strong>
